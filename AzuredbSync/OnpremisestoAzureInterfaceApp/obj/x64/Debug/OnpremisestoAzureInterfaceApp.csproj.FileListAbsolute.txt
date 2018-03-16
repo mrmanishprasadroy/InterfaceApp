@@ -1,0 +1,9 @@
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\bin\x64\Debug\OnpremisestoAzureInterfaceApp.exe.config
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\bin\x64\Debug\OnpremisestoAzureInterfaceApp.exe
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\bin\x64\Debug\OnpremisestoAzureInterfaceApp.pdb
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\obj\x64\Debug\OnpremisestoAzureInterfaceApp.csprojResolveAssemblyReference.cache
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\obj\x64\Debug\OnpremisestoAzureInterfaceApp.App1.resources
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\obj\x64\Debug\OnpremisestoAzureInterfaceApp.Properties.Resources.resources
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\obj\x64\Debug\OnpremisestoAzureInterfaceApp.csproj.GenerateResource.Cache
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\obj\x64\Debug\OnpremisestoAzureInterfaceApp.exe
+D:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\obj\x64\Debug\OnpremisestoAzureInterfaceApp.pdb

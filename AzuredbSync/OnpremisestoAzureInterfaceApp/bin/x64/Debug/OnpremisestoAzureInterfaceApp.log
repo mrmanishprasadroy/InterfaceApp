@@ -1,0 +1,7 @@
+﻿2018-02-06 10:19:33.549 OnpremisestoAzureInterfaceApp.log is created.
+2018-02-06 10:19:33.587 [TRACE]  File: d:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\App1.cs, Line No: 44 --->  Message Logging Started
+2018-02-06 10:19:36.356 [INFO]    File: d:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\App1.cs, Line No: 44 --->  Interface App Initilized 
+2018-02-06 10:19:36.558 [INFO]    File: d:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\App1.cs, Line No: 44 --->  Checking Connections!!!!
+2018-02-06 10:19:36.707 [ERROR]   File: d:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\App1.cs, Line No: 44 --->  Premises Database Connection Caught Exception ---> Not Connected
+2018-02-06 10:21:06.700 [FATAL]   File: d:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\DatabaseOperations.cs, Line No: 23 --->  SqlDatabaseConnectionState Caught an exception ---> A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+2018-02-06 10:21:06.701 [INFO]    File: d:\Test_project\WPF\AzuredbSync\OnpremisestoAzureInterfaceApp\App1.cs, Line No: 44 --->  Azure Database Connection  ---> Not Connected
